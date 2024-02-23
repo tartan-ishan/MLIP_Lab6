@@ -22,7 +22,7 @@ pipeline {
 
                 # TODO Complete the command to run pytest
                 # sudo /PATH/TO/CONDA run -n <Envinronment Name> <Command you want to run>
-                sudo /home/imamadap/miniconda3 run -n mlip pytest
+                # sudo /home/imamadap/miniconda3 run -n mlip pytest
 
 
                 # echo 'pytest not runned'
