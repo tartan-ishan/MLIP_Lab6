@@ -17,7 +17,7 @@ pipeline {
 
                 # TODO fill out the path to conda here
                 # sudo /PATH/TO/CONDA init
-                sudo /home/imamadap/miniconda3 init
+                # sudo /home/imamadap/miniconda3 init
 
 
                 # TODO Complete the command to run pytest
